@@ -1,0 +1,92 @@
+[
+    {
+        "name":"iphone7",
+        "price":"100000",
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"spark6 GO",
+        "price":"18500",
+        "feature":true,
+        "company":"tecno"
+    },
+    {
+        "name":"galaxy s7",
+        "price":"88000",
+        "feature":true,
+        "company":"samsung"
+    },
+    {
+        "name":"iphone12",
+        "price":"350000",
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"hot 9 play",
+        "price":"22000",
+        "feature":true,
+        "company":"infinix"
+    },
+    {
+        "name":"realme c21",
+        "price":"24000",
+        "feature":true,
+        "company":"mi"
+    },
+    {
+        "name":"iphone Xs",
+        "price":"88000",
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"spark 7",
+        "price":"20500",
+        "feature":true,
+        "company":"tecno"
+    },
+    {
+        "name":"spark 7 pro",
+        "price":"23000",
+        "feature":true,
+        "company":"tecno"
+    },
+    {
+        "name":"poco m3",
+        "price":"23000",
+        "feature":true,
+        "company":"mi"
+    },
+    {
+        "name":"redmi 9c",
+        "price":"55000",
+        "feature":true,
+        "company":"mi"
+    },
+    {
+        "name":"oppo reno3",
+        "price":"52000",
+        "feature":true,
+        "company":"oppo"
+    },
+    {
+        "name":"turbo2",
+        "price":"16000",
+        "feature":true,
+        "company":"moto"
+    },
+    {
+        "name":"17T",
+        "price":"60000",
+        "feature":true,
+        "company":"oppo"
+    },
+    {
+        "name":"honor Lite",
+        "price":"56500",
+        "feature":true,
+        "company":"huawei"
+    }
+]
